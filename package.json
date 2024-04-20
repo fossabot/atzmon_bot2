@@ -1,0 +1,24 @@
+{
+  "name": "atzmon_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@langchain/anthropic": "^0.0.10",
+    "@langchain/openai": "^0.0.14",
+    "cheerio": "^1.0.0-rc.12",
+    "gpt-3-encoder": "^1.1.4",
+    "langchain": "^0.1.21",
+    "moment-timezone": "^0.5.45",
+    "mysql2": "^3.9.1",
+    "openai": "^4.28.0",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.23.0"
+  }
+}
