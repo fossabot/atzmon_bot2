@@ -1,6 +1,8 @@
 Few applications have been developed for my household using the incredible whatsappweb.js library.
 
 ## Requirements
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbradthebeeble%2Fatzmon_bot2.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbradthebeeble%2Fatzmon_bot2?ref=badge_shield)
+
 
 - Node.js must be installed
 - Use ```npm update``` to install all libraries from packages.json
@@ -35,3 +37,7 @@ The bot will only respond to messages received from a specific set of allowed nu
 This list should be configured in the config.json file.
 
 Enjoy using these applications!
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbradthebeeble%2Fatzmon_bot2.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbradthebeeble%2Fatzmon_bot2?ref=badge_large)
